@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='/webservices/catalog/xsl/searchRetrieveResponse.xsl'?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>1756</numberOfRecords>
+<records>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">801371876</controlfield>
+    <controlfield tag="008">811120s1658    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Farmer, Ralph.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The imposter dethron'd, or, The Quakers throne of truth detected to bee Satans seat of lyes :</subfield>
+      <subfield code="b">by way of reply to a quaking and railing pamphlet written by Capt. Bishop entituled, the throne of truth exalted over the powers of darkness wherein is briefly hinted the rottenness of the Quakers conversion and perfection ... /</subfield>
+      <subfield code="c">by Ralph Farmer.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed by R.I., for Edw. Thomas,</subfield>
+      <subfield code="c">1658.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[15], 117 pages</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Published according to order."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Bristol Public Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Bishop, George,</subfield>
+      <subfield code="d">-1668.</subfield>
+      <subfield code="t">Throne of truth exalted.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="v">Controversial literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Society of Friends.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01123801</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Controversial literature.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423907</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Quakers throne of truth detected to bee Satans seat of lyes.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://hdl.library.upenn.edu/1017.12/259152</subfield>
+      <subfield code="z">Connect to full text</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">830949986</controlfield>
+    <controlfield tag="008">950127s1868    enk     o     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Browne, Edward Harold,</subfield>
+      <subfield code="d">1811-1891.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The witness and the maintenance of the truth :</subfield>
+      <subfield code="b">two sermons preached on the 22nd and 23rd of September 1868 at the consecration of the parish churches of Woburn Sands and Woburn /</subfield>
+      <subfield code="c">by Edward Harold.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Longmans, Green,</subfield>
+      <subfield code="c">1868</subfield>
+      <subfield code="f">(Spottiswoode)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (26 pages).</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Nineteenth Century Collections Online: British Politics and Society</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"The witness of the truth": pages [3]-13.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"The maintenance of the truth": pages [15]-26.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Published by request."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Pamphlet no. 513."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Church no. 3590."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of the original from the Pusey House Library St Giles.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="630">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">John, XVIII, 37-38</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="630">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Timothy, 1st, III, 15</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Church of England</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Church of England.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00532932</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sermons, English</subfield>
+      <subfield code="y">19th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sermons, English.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01113250</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Sermons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423904</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="a">Gale Cengage Learning, Nineteenth Century Collections Online</subfield>
+      <subfield code="u">http://ncco.galegroup.com/gdc/ncco/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;prodId=NCCO&amp;action=1&amp;activityType=BasicSearch&amp;javax.portlet.action=viewPortletAction&amp;documentId=GALE%7CRIQOBY925789469&amp;dviSelectedPage=1&amp;userGroupName=</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://libproxy.uwyo.edu/login/?url=http://ncco.galegroup.com/gdc/ncco/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;prodId=NCCO&amp;action=1&amp;activityType=BasicSearch&amp;javax.portlet.action=viewPortletAction&amp;documentId=GALE%7CRIQOBY925789469&amp;dviSelectedPage=1&amp;userGroupName=wylrc_uwyoming</subfield>
+      <subfield code="z">View full text.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="a">Gale Cengage Learning, Nineteenth Century Collections Online</subfield>
+      <subfield code="u">http://www.library.yorku.ca/e/resolver/id/2453217</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">642434676</controlfield>
+    <controlfield tag="008">830914s1774    enk     o     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Beattie, James,</subfield>
+      <subfield code="d">1735-1803.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="3" tag="245">
+      <subfield code="a">An essay on the nature and immutability of truth :</subfield>
+      <subfield code="b">in opposition to sophistry and scepticism. By James Beattie L L.D. Professor of Moral Philosophy and Logic in the Marischal College and University of Aberdeen.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">The 5th ed. corrected.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for Edward and Charles Dilly in the Poultry ;</subfield>
+      <subfield code="a">And William Creech, Edinburgh,</subfield>
+      <subfield code="c">MDCCLXXIV. [1774]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (6, [1], 10-518, [2] pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Electronic books.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1010500100&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1010500100&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=uvictoria</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T144352&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW115618340&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRK&amp;locID=kings</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T144352&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW115618340&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRK&amp;locID=nclivedc</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://0-galenet.galegroup.com.biblio.eui.eu/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T144352&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW115618340&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRK&amp;locID=europeo</subfield>
+      <subfield code="z">Full-text</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1010500100&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=mlin_b_bpublic</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T144352&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW115618340&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRK</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1010500100&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com.ezproxy.aub.edu.lb/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1010500100&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource (off-campus access)</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">12859443</controlfield>
+    <controlfield tag="008">851202s1699    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Humfrey, John,</subfield>
+      <subfield code="d">1621-1719.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Animadversions, being the two last books of my reverend brother Mr. Williams :</subfield>
+      <subfield code="b">the one entituled A postscript to Gospel-truth, the other An end of discord : conscientiously examined, in order to a free entertainment of the truth, in some momentous points in divinity, controverted among the nonconformist brethren, occasionally here determined, for the sake of those honest among us that seek it, without trick or partiality /</subfield>
+      <subfield code="c">by John Humfrey ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed by Tho. Snowden, for Tho. Parkhurst ...,</subfield>
+      <subfield code="c">1699.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[2], 38 pages</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Union Theological Seminary Library, New York.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Errata: p. 38.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Williams, Daniel,</subfield>
+      <subfield code="d">1643?-1716.</subfield>
+      <subfield code="t">Gospel-truth stated and vindicated.</subfield>
+      <subfield code="p">Postscript.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Williams, Daniel,</subfield>
+      <subfield code="d">1643?-1716.</subfield>
+      <subfield code="t">End to discord.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Gospel-truth stated and vindicated (Williams, Daniel)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01358515</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Justification (Christian theology)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Dissenters, Religious</subfield>
+      <subfield code="z">Great Britain.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Dissenters, Religious.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00895414</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Justification (Christian theology)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00985240</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Great Britain.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204623</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="z">Full text available as part of Early English books online (EEBO):</subfield>
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:94653</subfield>
+      <subfield code="z">Rutgers restricted</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://proxy.lib.utk.edu:90/login?url=http://wwwlib.umi.com/eebo/image/94653</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ii 4500</leader>
+    <controlfield tag="001">6926297</controlfield>
+    <controlfield tag="008">801111s1881    miuch         000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883,</subfield>
+      <subfield code="e">author.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Narrative of Sojourner Truth :</subfield>
+      <subfield code="b">a bondswoman of olden time, emancipated by the New York Legislature in the early part of the present century : with a history of her labors and correspondence /</subfield>
+      <subfield code="c">drawn from her "Book of Life."</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Life of Sojourner Truth</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">5th ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Battle Creek, Mich. :</subfield>
+      <subfield code="b">Published fot the author,</subfield>
+      <subfield code="c">1881.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">320 pages :</subfield>
+      <subfield code="b">facsimiles, portraits</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">On coover: The life of Sojourner Truth ... the oldest lecturer in the World : a graphic volume about the colored centenarian.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Half title: Sojourner Truth's Narrative and Book of life.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Information from NUC 1968-72: Narrative of Sojourner / by Olive Gilbert. Book of life / by Frances W. Titus.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gilbert, Olive,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Titus, Frances W.,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">1087308960</controlfield>
+    <controlfield tag="008">850723s1662    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Whitehead, John,</subfield>
+      <subfield code="d">1630-1696.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The case of such professors :</subfield>
+      <subfield code="b">as have known the way of truth, and are turned aside from its holy testimony to save themselves, opened and lamented : with some wholsome warnings and admonitions, tending to restore and turn them again to the Lord, that they may be saved by him, both from the evil of sin and punishment.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for Robert Wilson,</subfield>
+      <subfield code="c">1662.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 sheet ([1] p.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Huntington Library.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Broadside.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Signed: John Whitehead.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Salvation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Salvation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01104418</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="730">
+      <subfield code="a">Early English books online.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Mc 4500</leader>
+    <controlfield tag="001">839436070</controlfield>
+    <controlfield tag="008">071206s1658    xxk     o  u        eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Turner, Robert</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Truths defence :</subfield>
+      <subfield code="b">truth: sepperating it selfe, from it's abuses, and its abusers ... Also, here is a swift and close pursuite, after severall dangerous, infectious and running errors, which by Robert Child priest, hath lately been sowen &amp; spread abroad ... wch [sic] errors, are answered by R.T. ... Also, a true information of the evil, and error of one Humphrey Whittingh priest &amp;c.; with a few words to the heads, &amp; rulers of the nation of Ireland; and of the Colledge of Dublin</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Erscheinungsort nicht ermittelbar]</subfield>
+      <subfield code="b">[Verlag nicht ermittelbar]</subfield>
+      <subfield code="c">Printed in the yeare 1658</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online-Ressource</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Page 17 numbered 16</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Page [2] (1st group) signed: E.B</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Place of publication suggested by Wing</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Friends' Library (London, England)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Wing (2nd ed.), T3333</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Child, Robert</subfield>
+      <subfield code="c">Priest</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Whittingh, Humphrey</subfield>
+      <subfield code="c">Priest</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Inner Light.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="x">Doctrine.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Worship.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Inner Light</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00973706</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158245</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Worship</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01181450</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:172394</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">83465683</controlfield>
+    <controlfield tag="008">790719s1775    enk     o     000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   10032150 </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Priestley, Joseph,</subfield>
+      <subfield code="d">1733-1804.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="3" tag="245">
+      <subfield code="a">An examination of Dr. Reid's Inquiry into the human mind on the principles of common sense, Dr. Beattie's Essay on the nature and immutability of truth, and Dr. Oswald's Appeal to common sense in behalf of religion. By Joseph Priestley.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">The 2nd ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for J. Johnson,</subfield>
+      <subfield code="c">1775.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (lxi, [3], 371, [5] pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">With 2 final leaves being 'A catalogue of books written by Joseph Priestley, .' ([3]p.) and a list of errata ([1]p.).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original from the British Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Reid, Thomas,</subfield>
+      <subfield code="d">1710-1796.</subfield>
+      <subfield code="t">Inquiry into the human mind.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Beattie, James,</subfield>
+      <subfield code="d">1735-1803.</subfield>
+      <subfield code="t">Essay on the nature and immutability of truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Oswald, James,</subfield>
+      <subfield code="d">-1793.</subfield>
+      <subfield code="t">Appeal to common sense.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Inquiry into the human mind (Reid, Thomas)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01357371</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Philosophy, Scottish.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Philosophy, Scottish.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01061111</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=PHc3AAAAMAAJ</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Internet Archive</subfield>
+      <subfield code="u">https://archive.org/details/examinationofdrr00prieuoft</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF&amp;locID=ureginalib</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF&amp;locID=fred46430</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF</subfield>
+      <subfield code="3">Volltext</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF&amp;locID=new67449</subfield>
+      <subfield code="z">Rutgers restricted.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://libproxy.uwyo.edu/login/?url=http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF&amp;locID=wylrc_uwyoming</subfield>
+      <subfield code="z">View full text</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.library.yorku.ca/e/resolver/id/2124303</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://proxy.lib.utk.edu:90/login?url=http://galenet.galegroup.com/servlet/ECCO?c=1&amp;stp=Author&amp;ste=11&amp;af=BN&amp;ae=T033641&amp;tiPG=1&amp;dd=0&amp;dc=flc&amp;docNum=CW122474399&amp;vrsn=1.0&amp;srchtp=a&amp;d4=0.33&amp;n=10&amp;SU=0LRF&amp;locID=knox61277</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="z">Connect to Internet resource</subfield>
+      <subfield code="x">Open Content Alliance</subfield>
+      <subfield code="u">http://books.scholarsportal.info/viewdoc.html?id=/ebooks/oca5/4/examinationofdrr00prieuoft</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="z">Purchase a print copy</subfield>
+      <subfield code="u">https://www.graphicservices.uwo.ca/order-online/ebook-print/?ebook=/ebooks/oca5/4/examinationofdrr00prieuoft</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ki 4500</leader>
+    <controlfield tag="001">749201646</controlfield>
+    <controlfield tag="008">110904s1875    maua    o     000 0beng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883,</subfield>
+      <subfield code="e">author.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Narrative of Sojourner Truth :</subfield>
+      <subfield code="b">a bondswoman of old time, emancipated by the New York Legislature in the early part of the present century, with a history of her labors and correspondence, drawn from her Book of life.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">F.W. Titus,</subfield>
+      <subfield code="c">1875.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (324 pages) :</subfield>
+      <subfield code="b">illustrations</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.</subfield>
+      <subfield code="u">http://purl.oclc.org/DLF/benchrepro0212</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="v">Biography.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Biographies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919896</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gilbert, Olive.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Titus, Frances W.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library, Full view</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/58670900.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">17553782</controlfield>
+    <controlfield tag="008">880229s1818    mau           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Snell, Thomas,</subfield>
+      <subfield code="d">1774-1862.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The immutability of divine truth :</subfield>
+      <subfield code="b">a sermon preached at the ordination of the Rev. Munson C. Gaylord, to the pastoral care of the church in Western, June 12, 1816 /</subfield>
+      <subfield code="c">by Thomas Snell.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Brookfield [Mass.] :</subfield>
+      <subfield code="b">Printed by E. Merriam &amp; Co.,</subfield>
+      <subfield code="c">1818.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">16 pages ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Also available in microopaque. New York, N.Y. : Readex Microprint, courtesy of A.A.S., 1981. (Early American imprints. Second series ; no. 45741).</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Gaylord, Munson C.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Ordination sermons.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sermons, American.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Ordination sermons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01047430</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sermons, American.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01113225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Sermons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423904</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">E. Merriam &amp; Co.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000I  4500</leader>
+    <controlfield tag="001">6155773</controlfield>
+    <controlfield tag="008">800401s1638    enk           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Chillingworth, William,</subfield>
+      <subfield code="d">1602-1644.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The religion of Protestants, a safe way to salvation.</subfield>
+      <subfield code="b">Or An answer to a booke entitled Mercy and truth, or, Charity maintain'd by Catholiques, which pretends to prove the contrary.</subfield>
+      <subfield code="c">By William Chillingworth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Oxford,</subfield>
+      <subfield code="b">Printed by Leonard Lichfield,</subfield>
+      <subfield code="c">1638.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 preliminary leaf, [6], 413, [1] pages</subfield>
+      <subfield code="c">19 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">STC 5138.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Catholic Church</subfield>
+      <subfield code="x">Doctrines</subfield>
+      <subfield code="x">Protestant authors.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Knott, Edward,</subfield>
+      <subfield code="d">1582-1656.</subfield>
+      <subfield code="t">Mercy and truth, or Charity maintained by Catholiques.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Catholic Church.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00531720</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Protestantism.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Protestantism.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01079920</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">426119862</controlfield>
+    <controlfield tag="008">840319s1815    mau     o     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Andros, Thomas,</subfield>
+      <subfield code="d">1759-1845.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Truth in opinion the only foundation of piety :</subfield>
+      <subfield code="b">a discourse delivered at the induction of the Rev. Benjamin Whitmore, to the pastoral office in the Church of Christ at Tiverton, R.I., August 16, 1815 /</subfield>
+      <subfield code="c">by Thomas Andros.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">Printed by Samuel T. Armstrong,</subfield>
+      <subfield code="c">1815.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (32 pages)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Whitmore, Benjamin.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Installation sermons.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sermons, American.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Sermons.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Installation sermons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00974248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sermons, American.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01113225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Sermons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423904</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="856">
+      <subfield code="x">http://www.aladin.wrlc.org/Z-WEB/Aladin?req=db&amp;key=WRL07005AU&amp;url=http://opac.newsbank.com/select/shaw/33870</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://opac.newsbank.com/select/shaw/33870</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://libproxy.uwyo.edu/login/?url=http://opac.newsbank.com/select/shaw/33870</subfield>
+      <subfield code="z">View full text</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">508208250</controlfield>
+    <controlfield tag="008">891127s1744    enk     o     000 0 eng d</controlfield>
+    <datafield ind1="0" ind2=" " tag="130">
+      <subfield code="a">Ax laid to the root of Christian priestcraft.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Axe laid to the root of priestcraft: or, Christianity defended against the exorbitant claims of the clergy. :</subfield>
+      <subfield code="b">In four discourses. Viz. I. On the importance of truth, and the origin of ecclesiastical grandeur: describing the methods whereby the preachers of the Gospel degenerated from their primitive institution. II. On the craft of Tythes ; refuting the arguments alledg'd for their divine appointment. III. On the usurpation of Church-power ; and the pernicious abuses of it for oppressing and impoverishing the laity. IV. On the means used by ambitious priests to rivet their yoke on the people.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">The 2nd ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for J. Warner, near Warwick-Lane ;</subfield>
+      <subfield code="a">And sold by the Booksellers in Ludgate-Street, at the Royal Exchange, Temple Bar, and Charing Cross,</subfield>
+      <subfield code="c">MDCCXLIV. [1744]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (viii, 48; [4], 51, [1]; [2], 64; [2], 63, [1] pages).</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Eighteenth century collections online.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Each part has separate pagination and register.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Originally published in 1742 as 'The axe laid to the root of Christian priestcraft. In four discourses. By a layman.'.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original from Boston Public Library.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Electronic books.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=norm94900</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://0-find.galegroup.com.biblio.eui.eu/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=europeo</subfield>
+      <subfield code="z">Full-text</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=fred96435</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=learn</subfield>
+      <subfield code="z">e-book Eighteenth Century Collections Online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=ucmerced</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=sunybuff_main</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=mlin_b_bpublic</subfield>
+      <subfield code="y">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://proxy.library.carleton.ca/login?url=http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=ocul_carleton</subfield>
+      <subfield code="z">Eighteenth Century Collections Online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="z">Full text available from Eighteenth century collections online</subfield>
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=new67449</subfield>
+      <subfield code="z">Rutgers restricted</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://www.library.yorku.ca/e/resolver/id/2169155</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com.ezproxy.aub.edu.lb/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=1397100200&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource (off-campus access)</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">1086797515</controlfield>
+    <controlfield tag="008">880418s1660    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Whitehead, George,</subfield>
+      <subfield code="d">1636?-1723.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The he-goats horn broken, or, Innocency elevated against insolency &amp; impudent falshood :</subfield>
+      <subfield code="b">in answer to two books against the people of God called Quakers : the one intituled, A fuller discovery, which is stuffed with such a multitude of lyes, slanders, and perverting the truth, as the like hath not been extant : the authors of which are John Horn, Thomas Moore Senior, and Thomas Moore Junior : and the other book is falsely called truth's triumph by John Horn : which are answered for the information of the people, and the clearing of the servants of God, and the way of truth to the simple hearted from the lyes, delusions and fallacies that have proceeded from the spirit of Antichrist and blasphemy, in these men aforesaid, who profess themselves ministers of Christ but are proved ministers of Satan and unrighteousness /</subfield>
+      <subfield code="c">by a witness of Christ and his work against all the works of darkness, G.W.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for Robert Wilson,</subfield>
+      <subfield code="c">1660.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">63 p.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Imperfect: p. 33-40 faded, with some print show-through.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Huntington Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Horn, John,</subfield>
+      <subfield code="d">1614-1676.</subfield>
+      <subfield code="t">Fuller discovery of the dangerous principles and lying spirit of the people called Quakers made manifest.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Horn, John,</subfield>
+      <subfield code="d">1614-1676.</subfield>
+      <subfield code="t">Truth's triumph over deceit.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Moore, Thomas,</subfield>
+      <subfield code="c">Senior.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Moore, Thomas,</subfield>
+      <subfield code="c">Junior.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Moore, Thomas,</subfield>
+      <subfield code="c">Junior.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00173970</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="v">Apologetic works.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Society of Friends.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01123801</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Apologetic writings.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423698</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="730">
+      <subfield code="a">Early English books online.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">He goats horn broken.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Innocency elevated against insolency &amp; impudent falshood.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">977642727</controlfield>
+    <controlfield tag="008">860916s1755    pau     b     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rockhill, John,</subfield>
+      <subfield code="d">1726-1798.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Forasmuch as the judicious readers of the paper published by Charles Hoff, Junior, in answer to John Rockill's [i.e. Rockhill's] State of the controversy, are generously left to their own reflections upon Hoff's extraordinary zeal for the love of truth ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Philadelphia? :</subfield>
+      <subfield code="b">s.n.,</subfield>
+      <subfield code="c">1755]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 sheet ([1] p.) ;</subfield>
+      <subfield code="c">34 x 21 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Signed: John Rockhill.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Imprint supplied by Bristol.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Rockhill, John,</subfield>
+      <subfield code="d">1726-1798.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Hoff, Charles,</subfield>
+      <subfield code="d">-1798.</subfield>
+      <subfield code="t">Nothing but the love of truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Rockhill, John,</subfield>
+      <subfield code="d">1726-1798.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01494337</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Boundaries (Estates)</subfield>
+      <subfield code="z">New Jersey</subfield>
+      <subfield code="z">Bethlehem.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">New Jersey</subfield>
+      <subfield code="x">Boundaries.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Boundaries.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00837076</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Boundaries (Estates)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00837084</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">New Jersey.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01208379</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">New Jersey</subfield>
+      <subfield code="z">Bethlehem.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01217622</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Broadsides.</subfield>
+      <subfield code="2">rbgenr</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Forasmuch as the judicious readers of the paper published by Charles Hoff, Junior ...</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=193702&amp;T=F</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Mc 4500</leader>
+    <controlfield tag="001">838762473</controlfield>
+    <controlfield tag="008">071206s1698    xxk     o  u        eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Comber, Thomas</subfield>
+      <subfield code="d">1645-1699</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The several kinds of inspirations and revelations pretended by the Quakers tried and found destructive to Holy Scripture and true religion :</subfield>
+      <subfield code="b">in answer to Thomas Ellwood's defence thereof in his tract miscalled Truth prevailing &amp;c</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="260">
+      <subfield code="a">London</subfield>
+      <subfield code="b">Printed for C. Brome</subfield>
+      <subfield code="c">1698</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online-Ressource.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Attributed by Wing to Thomas Comber</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Trinity College Library, Cambridge University</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Wing, C5493A</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Ellwood, Thomas,</subfield>
+      <subfield code="d">1639-1713.</subfield>
+      <subfield code="t">Truth prevailing and detecting error.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="v">Controversial literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01123801</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Controversial literature</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423907</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:44756</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">802089073</controlfield>
+    <controlfield tag="008">860604s1659    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Allein, Toby.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Truths manifest revived, or, A farther discovery of Mr. Stucley and his churches causeless excommunication of Mrs. Mary Allein :</subfield>
+      <subfield code="b">wherein the former narrative and observations on Mr. Stucleys sermon are reprinted, and his late scandulous pamphlet, falsly intituled Manifest truth, answered and refuted /</subfield>
+      <subfield code="c">by Tobie Allein ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed by R.D. for Francis Eglesfield ...,</subfield>
+      <subfield code="c">1659.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">112 pages</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Bodleian Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Stuckley, Lewis,</subfield>
+      <subfield code="d">1621 or 1622-1687.</subfield>
+      <subfield code="t">Manifest truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Mall, Thomas,</subfield>
+      <subfield code="d">1629 or 1630-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Allein, Marie.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Allein, Marie.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00147506</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Mall, Thomas,</subfield>
+      <subfield code="d">1629 or 1630-</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01832524</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Truths manifest revived.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Farther discovery of Mr. Stucley and his churches causeless excommunication of Mrs. Mary Allein.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://hdl.library.upenn.edu/1017.12/287814</subfield>
+      <subfield code="z">Connect to full text</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">642475408</controlfield>
+    <controlfield tag="008">861120s1731    enk     o     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Sturch, John</subfield>
+      <subfield code="c">(Baptist minister at Crediton)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A compendium of truth, or :</subfield>
+      <subfield code="b">or, Certain weighty Questions Meekly resolved, and Sincerely recommended to all Christians, as useful to compose and regulate their too much divided and disorder'd Judgments concerning some material Points of Faith, especially to those that unfeignedly desire to promote Unity and Concord amongst the Disciples and Followers of our Lord and Saviour Jesus Christ. Amen.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Exon :</subfield>
+      <subfield code="b">Printed by Andrew Brice, over against St. Stephen's Church, in the Highstreet,</subfield>
+      <subfield code="c">[1731]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (31, [1] pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Catechisms, English</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Catechisms, English.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00848965</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0997800900&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0997800900&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=uvictoria</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0997800900&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=mlin_b_bpublic</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0997800900&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com.ezproxy.aub.edu.lb/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0997800900&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource (off-campus access)</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000M  4500</leader>
+    <controlfield tag="001">54189044</controlfield>
+    <controlfield tag="008">910411s1650    enk           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hammond, Henry,</subfield>
+      <subfield code="d">1605-1660.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A view of some exceptions to the practicall catechisms:</subfield>
+      <subfield code="b">from the censures affixt on them by the ministers of London, in a book entituled, A testimony to the truth of Jesus Christ, &amp;c. ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London,</subfield>
+      <subfield code="b">Rich: Royston,</subfield>
+      <subfield code="c">[1650]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">10 [i.e. 12] pages</subfield>
+      <subfield code="c">20 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Errors in paging.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Testimony to the truth of Jesus Christ.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Brit Tracts</subfield>
+      <subfield code="y">1650.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">801403699</controlfield>
+    <controlfield tag="008">850805s1697    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="h">fre</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Le Clerc, Jean,</subfield>
+      <subfield code="d">1657-1736.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">De l'incredulité.</subfield>
+      <subfield code="l">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A treatise of the causes of incredulity :</subfield>
+      <subfield code="b">wherein are examin'd the general motives and occasions which dispose unbelievers to reject the Christian religion : with two letters, containing a direct proof of the truth of Christianity /</subfield>
+      <subfield code="c">translated from the French of Monsieur Le Clerc.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for Awnsham and John Churchill ...,</subfield>
+      <subfield code="c">1697.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">viii, 327, [1] pages</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Advertisement: p. [1] at end.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Union Theological Seminary Library, New York.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Table of contents: p. vii-viii.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Faith</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Christianity</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00859599</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Faith.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01198492</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://hdl.library.upenn.edu/1017.12/279688</subfield>
+      <subfield code="z">Connect to full text</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">745003144</controlfield>
+    <controlfield tag="008">790922s1728    enk     o     000 0 eng d</controlfield>
+    <datafield ind1="0" ind2="2" tag="245">
+      <subfield code="a">A label without being a libel against truth :</subfield>
+      <subfield code="b">Or any Libellous Assertions Libelling Honour and Honesty. Or, Old News newly reviv'd, or brought to Life as New. Or, A Whimsical News-Book on Old Matters Dress'd as 'twere out, or in an Old Thread-Bare Coat Trimm'd up in Second Mourning, and New Napt with Foreign and Domestick Advices.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for J. Roberts near the Oxford-Arms in Warwick-Lane,</subfield>
+      <subfield code="c">1728.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (47, [1] pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0080201600&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=uvictoria</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0080201600&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0080201600&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://find.galegroup.com.ezproxy.aub.edu.lb/ecco/infomark.do?contentSet=ECCOArticles&amp;docType=ECCOArticles&amp;bookId=0080201600&amp;type=getFullCitation&amp;tabID=T001&amp;prodId=ECCO&amp;docLevel=TEXT_GRAPHICS&amp;version=1.0&amp;source=library&amp;userGroupName=aub</subfield>
+      <subfield code="z">Click to connect to online resource (off-campus access)</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Mc 4500</leader>
+    <controlfield tag="001">838662933</controlfield>
+    <controlfield tag="008">071206s1682    xxk     o  u        eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">More, Henry</subfield>
+      <subfield code="d">1614-1687</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Annotations upon the two foregoing treatises, Lux orientalis, or, An enquiry into the opinion of the Eastern sages concerning the prae-existence of souls, and the Discourse of truth :</subfield>
+      <subfield code="b">written for the more fully clearing and further confirming the main doctrines in each treatise /</subfield>
+      <subfield code="c">by one not unexercized in these kinds of speculation</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="260">
+      <subfield code="a">London</subfield>
+      <subfield code="b">Printed for J. Collins and S. Lounds</subfield>
+      <subfield code="c">1682</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online-Ressource.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Annotations upon the Discourse of truth" has separate t.p., dated 1683</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Union Theological Seminary Library, New York</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Wing, M2638</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Glanvill, Joseph,</subfield>
+      <subfield code="d">1636-1680.</subfield>
+      <subfield code="t">Lux orientalis.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Rust, George,</subfield>
+      <subfield code="d">-1670.</subfield>
+      <subfield code="t">Discourse of truth.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Lux orientalis (Glanvill, Joseph)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01365844</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Pre-existence.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Pre-existence</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01074784</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:40991</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">1086776503</controlfield>
+    <controlfield tag="008">850301s1693    enk     s     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Beverley, Thomas.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The true state of Gospel truth, established upon the free election of God in Christ :</subfield>
+      <subfield code="b">the agreement, and yet difference between law and Gospel, so, that the Gospel cannot be stiled law : the inconditionateness of the Gospel salvation : the procedure of the day of judgment : in the way of a conciliatory discourse upon Mr. Williams his concessions /</subfield>
+      <subfield code="c">by T. Beverley.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for William Marshall ...,</subfield>
+      <subfield code="c">1693.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[4], 36 p.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Cambridge University Library.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Williams, Daniel,</subfield>
+      <subfield code="d">1643?-1716.</subfield>
+      <subfield code="t">Defence of Gospel truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Salvation</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Election (Theology)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Election (Theology)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00904285</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Salvation.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01104418</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="730">
+      <subfield code="a">Early English books online.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">1087160777</controlfield>
+    <controlfield tag="008">830614s1680    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="0" ind2=" " tag="100">
+      <subfield code="a">Well-wisher to the nations happiness and prosperity.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A serious vindication of the Church of England :</subfield>
+      <subfield code="b">shewing the nations happiness under the present government : being a seasonable answer to a late pamphlet entituled The naked truth /</subfield>
+      <subfield code="c">by a well-wisher to the nations happiness and prosperity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Printed for A. Banks,</subfield>
+      <subfield code="c">1680.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">4 p.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Caption title.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Harvard University Library.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="630">
+      <subfield code="a">Naked truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Church and state</subfield>
+      <subfield code="x">Church of England.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Church and state</subfield>
+      <subfield code="x">Church of England.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00860515</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="730">
+      <subfield code="a">Early English books online.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000M  4500</leader>
+    <controlfield tag="001">18079527</controlfield>
+    <controlfield tag="008">880411s1875    mauch   a     000 0beng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883,</subfield>
+      <subfield code="e">author.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Narrative of Sojourner Truth; a bondswoman of olden time,</subfield>
+      <subfield code="b">emancipated by the New York legislature in the early part of the present century; with a history of her labors and correspondence, drawn from her "Book of life."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Boston,</subfield>
+      <subfield code="b">for the author,</subfield>
+      <subfield code="c">1875.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xi, 13-324 pages</subfield>
+      <subfield code="b">facsimiles frontispiece (portrait)</subfield>
+      <subfield code="c">20 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Preface signed: William Lloyd Garrison. Information from publisher: Narrative of Sojourner Truth by Olive Gilbert, Leeds, Mass. Book of life by Frances W. Titus.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gilbert, Olive.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Titus, Mrs. Frances W.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Mc 4500</leader>
+    <controlfield tag="001">839412663</controlfield>
+    <controlfield tag="008">071206s1657    xxk     o  u        eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Weld, Thomas</subfield>
+      <subfield code="d">1590?-1662</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Mr. Tillam's account examined. Or, A brief reply to his unchristian account of some passages of Providence :</subfield>
+      <subfield code="b">By a friend to truth, and to Mr. Tillam's own soul, if God have not sealed him down under hardness of heart. Written for the sake of such poor honest souls in Colchester, and the parts adjacent, as are misled through his inchantments</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="260">
+      <subfield code="a">London</subfield>
+      <subfield code="b">printed for the author</subfield>
+      <subfield code="c">1657</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online-Ressource.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">In answer to Thomas Tillam's "A Christian account". Title untraced</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Bodleian Library, Oxford, England</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Wing (CD-ROM, 1996), W1268aA</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">With a final advertisement leaf</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Tillam, Thomas</subfield>
+      <subfield code="t">Christian account</subfield>
+      <subfield code="v">Early works to 1800</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Providence and government of God</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Providence and government of God</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01080657</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:137293</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ii 4500</leader>
+    <controlfield tag="001">9102979</controlfield>
+    <controlfield tag="008">830105t18841875miu           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883,</subfield>
+      <subfield code="e">author.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Narrative of Sojourner Truth :</subfield>
+      <subfield code="b">a bondswoman of olden time, emancipated by the New York legislature in the early part of the present century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Battle Creek, Mich. :</subfield>
+      <subfield code="b">Review and Herald Office,</subfield>
+      <subfield code="c">1884.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">320 pages :</subfield>
+      <subfield code="b">front</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Xeroxed copy.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gilbert, Olive,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ii 4500</leader>
+    <controlfield tag="001">6704963</controlfield>
+    <controlfield tag="008">800912s1875    mauch   b     000 0beng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883,</subfield>
+      <subfield code="e">author.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Narrative of Sojourner Truth :</subfield>
+      <subfield code="b">a bondswoman of olden time, emancipated by the New York legislature in the early part of the present century, with a history of her labors and corresondence, drawn from her "Book of life "</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">The author,</subfield>
+      <subfield code="c">1875.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">324 pages :</subfield>
+      <subfield code="b">portrait, facsimiles</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Slaves</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="v">Biography.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Slaves.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01120522</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Biographies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919896</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Biographies.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gilbert, Olive,</subfield>
+      <subfield code="e">editor.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Titus, Frances W.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mc 4500</leader>
+    <controlfield tag="001">837912802</controlfield>
+    <controlfield tag="008">071206s1792    xxu     o     000 0 eng d</controlfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">To the free &amp; independent electors of the state of New-York</subfield>
+      <subfield code="b">Fellow citizens, A publication under the signature of Plain truth, hath been addressed to you, on the subject of the ensuing election. Its object is to persuade you, that Governor Clinton, as president of the Commissioners of the Land Office, has acted with propriety in that station ... See for your selves, and determine, whether this land ... has not been squandered away</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">Erscheinungsort nicht ermittelbar</subfield>
+      <subfield code="b">Verlag nicht ermittelbar</subfield>
+      <subfield code="c">[1792]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">S.L.</subfield>
+      <subfield code="b">Verlag nicht ermittelbar</subfield>
+      <subfield code="c">[1792]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">Online-Ressource</subfield>
+      <subfield code="a">1 sheet ([1] Seiten)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes files in TIFF, GIF and PDF formats with inclusion of keyword searchable text</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Accusing Gov. Clinton of using his position as president of the Commissioners of the Land Office to reward his friends and supporters with large grants of public lands at very low prices. This controversy was a feature of the bitter gubernatorial campaign of 1792; the work to which this replies (Evans 24859) is dated Apr. 11, 1792</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Bristol, B7844</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Followed by: Resolutions proposed by Mr. Talbot to the House of Assembly, and on which the friends of Mr. Clinton precluded a question, by moving their resolution as an amendment</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Place of publication supplied by Bristol, who dates it erroneously 1791</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Shipton &amp; Mooney, 46301</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Text in two columns</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Clinton, George,</subfield>
+      <subfield code="d">1739-1812.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Plain Truth.</subfield>
+      <subfield code="t">To the independent electors of the state of New York</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="610">
+      <subfield code="a">New York (State).</subfield>
+      <subfield code="b">Board of Commissioners of the Land Office.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Elections</subfield>
+      <subfield code="z">New York (State)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Public land sales</subfield>
+      <subfield code="z">New York (State)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Real property</subfield>
+      <subfield code="z">New York (State)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">New York (State)</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">1775-1865.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Clinton, George,</subfield>
+      <subfield code="d">1739-1812</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00194708</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="610">
+      <subfield code="a">New York (State).</subfield>
+      <subfield code="b">Board of Commissioners of the Land Office</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00619198</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Elections</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00904324</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919741</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Public land sales</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01082567</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Real property</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01091096</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">New York (State)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01210280</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Broadsides.</subfield>
+      <subfield code="2">rbgenr</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Talbot, Silas,</subfield>
+      <subfield code="d">1751-1813</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Early American Imprints</subfield>
+      <subfield code="u">http://opac.newsbank.com/select/evans/46301</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">https://nl.sub.uni-goettingen.de/id/aas03006780?origin=/collection/eai1</subfield>
+      <subfield code="z">Nationallizenz</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">437926005</controlfield>
+    <controlfield tag="008">950918s1845    nyu     o     000 0 eng d</controlfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Mitchell's Olympic Theatre. :</subfield>
+      <subfield code="b">Doors open at half-past 6 ... Thursday evening, Feb. 6th the entertainments will commence with (for the 2d time in America) a new farce being performed in London with great success, entitled Young England ... After which a drama in 2 acts, translated from the French by Charles Selby ... called The Devil in Paris! ... To conclude with a new local extravaganza, peculiar to this theatre, entitled The mirror of truth ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[New York] :</subfield>
+      <subfield code="b">Applegate's Steam Presses, 17 Ann Street, N.Y.,</subfield>
+      <subfield code="c">[1845]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (1 sheet ([1] pages)).</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Archive of Americana.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Performed in 1845 at Mitchell's Olympic Theatre, New York; cf. Odell, G.C.D. Annals of the New York stage, v. 5, p. 126.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Dress circle--50 cents. Pit, --one shilling Upper boxes--25 cts. Private boxes, --five dollars Orchestra boxes, --three dollars."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Printed area measures 43.4 x 11.7 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Morton, John Maddison,</subfield>
+      <subfield code="d">1811-1891.</subfield>
+      <subfield code="t">Young England.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Selby, Charles,</subfield>
+      <subfield code="d">1802?-1863.</subfield>
+      <subfield code="t">Devil in Paris.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Révoil, Bénédict-Henry,</subfield>
+      <subfield code="d">1816-1882.</subfield>
+      <subfield code="t">Mirror of truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Drama</subfield>
+      <subfield code="y">19th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theater</subfield>
+      <subfield code="z">New York (State)</subfield>
+      <subfield code="z">New York.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Drama.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00897468</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theater.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149217</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">New York (State)</subfield>
+      <subfield code="z">New York.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204333</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Broadsides.</subfield>
+      <subfield code="2">rbgenr</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Playbills.</subfield>
+      <subfield code="2">rbgenr</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Mitchell's Olympic Theatre (New York, N.Y.)</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://opac.newsbank.com/select/broadsides1/6536</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="u">http://ezproxy.bpl.org/login?url=http://opac.newsbank.com/select/broadsides1/6536</subfield>
+      <subfield code="x">American Broadsides and Ephemera</subfield>
+      <subfield code="y">Click here to see digital image.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">84792221</controlfield>
+    <controlfield tag="008">990112s1650    enk     a     000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Stooks, Richard,</subfield>
+      <subfield code="d">active 1651-1652.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A second champion, or, Companion to truth: Wherein is shewed these particulars, or tenets. 1 Of miracles. 2 The reasons wherefore so few imbrace the gospell. 3 Of the first covenant, and the second covenant. 4 Of the father and the son. 5 Of Heaven. 6 Of Hell. 7 Of Glory. 8 Of faith. 9 Of the resurrection, and the eternall judgement. 10 Of visible worship. 11 A postscript. By Richard Stookes preacher of the Gospell.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">printed for George Whittington at the Blew Anchor in Cornhill,</subfield>
+      <subfield code="c">1650.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[8], 111, 128-220, [8] p.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">The words "1 Of miracles ... 11 A postscript.", on title page, are gathered by a left brace.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Two leaves before postscript are blank.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Faith</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Faith.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01198492</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Early works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411636</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="730">
+      <subfield code="a">Early English books online.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Early English Books Online</subfield>
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:137285</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://proxy.lib.utk.edu:90/login?url=http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:137285</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ii 4500</leader>
+    <controlfield tag="001">2230877</controlfield>
+    <controlfield tag="008">760616s1902    miu           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Canright, Dudley Marvin,</subfield>
+      <subfield code="d">1840-1919.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The present truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Battle Creek, Mich. :</subfield>
+      <subfield code="b">Review and Herald,</subfield>
+      <subfield code="c">1902.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">32 pages ;</subfield>
+      <subfield code="c">18 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Words of truth series ;</subfield>
+      <subfield code="v">no. 34</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Attributed to D.M. Canright.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">765810136</controlfield>
+    <controlfield tag="008">770224s1826    xxu     o     000 0deng d</controlfield>
+    <datafield ind1="0" ind2=" " tag="100">
+      <subfield code="a">Friend to truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Candid enquiries and interrogations relative to the difficulties which existed in the town of Manchester, Massachusetts, from the year 1816 to the year 1819 /</subfield>
+      <subfield code="c">by A friend to truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[U.S.] :</subfield>
+      <subfield code="b">[publisher not identified],</subfield>
+      <subfield code="c">[1826?]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (8 pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Having seen a pamphlet entitled Truth espoused, compiled by Tyler Parsons [1823], and after waiting over two years in hopes that some one would call on the compiler for some further information ... I have thought proper to make the following inquiries ..."--Page [3]. Sabin, no. 58914, attributes "Candid enquiries ..." to Tyler Parsons, also.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Hypocrisy exposed."--Page 8.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original from The American Antiquarian Society.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Thurston, James,</subfield>
+      <subfield code="d">1769-1835.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Parsons, Tyler,</subfield>
+      <subfield code="d">1775 or 1776-1853.</subfield>
+      <subfield code="t">Truth espoused, relative to the difficulties that existed in the town of Manchester, Massachusetts.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">Orthodox Congregational Church (Manchester, Mass.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Thurston, James,</subfield>
+      <subfield code="d">1769-1835.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00507381</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">Orthodox Congregational Church (Manchester, Mass.)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00715219</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Church controversies</subfield>
+      <subfield code="z">Massachusetts</subfield>
+      <subfield code="z">Manchester.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Manchester (Mass.)</subfield>
+      <subfield code="x">Church history.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Church controversies.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00860661</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Massachusetts</subfield>
+      <subfield code="z">Manchester.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01219023</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Church history.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411629</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Parsons, Tyler.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="2" tag="740">
+      <subfield code="a">Hypocrisy exposed.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/Sabin?af=RN&amp;ae=CY110688620&amp;srchtp=a&amp;ste=14</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="856">
+      <subfield code="u">http://galenet.galegroup.com/servlet/Sabin?af=RN&amp;ae=CY110688620&amp;srchtp=a&amp;ste=14&amp;q=marriottlibrary</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="856">
+      <subfield code="u">http://www.library.yorku.ca/e/resolver/id/2316679</subfield>
+      <subfield code="z">Full text online</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">16269868</controlfield>
+    <controlfield tag="008">870723s1903    miua          000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Wood-Allen, Mary,</subfield>
+      <subfield code="d">1841-1908.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Teaching truth /</subfield>
+      <subfield code="c">by Mary Wood-Allen.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Ann Arbor, Mich. :</subfield>
+      <subfield code="b">Wood-Allen Pub. Co.,</subfield>
+      <subfield code="c">©1903.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">97 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Teaching truth series</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes poems: Motherhood / Mary Wood Allen. Where did you come from, baby dear? / George Macdonald. Fatherhood / Bayard Taylor.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Sex instruction for children.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Sex instruction for children.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01114516</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cim a2200000Ia 4500</leader>
+    <controlfield tag="001">12363164</controlfield>
+    <controlfield tag="008">850808q19001984ilunnnn  r     bh n eng d</controlfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Sojourner Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Kankakee, Ill.] :</subfield>
+      <subfield code="b">Imperial International Learning,</subfield>
+      <subfield code="c">[19--]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 audiocassette (20 min.) :</subfield>
+      <subfield code="b">1 7/8 ips +</subfield>
+      <subfield code="e">student booklets and 1 teacher's manual (146 pages : illustrations ; 24 cm).</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Black heritage</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">A portrayal of the life and work of Sojourner Truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Imperial International Learning Corporation.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">41906077</controlfield>
+    <controlfield tag="008">981224s18uu    ohu           000 0 eng d</controlfield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Sojourner Truth.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Sojourner's mirror</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[New Lisbon, Ohio?] :</subfield>
+      <subfield code="b">[publisher not identified],</subfield>
+      <subfield code="c">[18--]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 sheet ([1] pages) ;</subfield>
+      <subfield code="c">31 x 12 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Title runs into text: Sojourner Truth, interested an audience in New Lisbon, O., at the Methodist Episcopal Church ...</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Consists mainly of poem A sojourner's mirror, with introduction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Antislavery movements</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Truth, Sojourner,</subfield>
+      <subfield code="d">1799-1883</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01851782</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Antislavery movements.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00810800</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Poems</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="y">19th century.</subfield>
+      <subfield code="2">rbgenr</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">309873416</controlfield>
+    <controlfield tag="008">081208s1871    enk           000 0 eng d</controlfield>
+    <datafield ind1="0" ind2=" " tag="100">
+      <subfield code="a">Sincere lover of the truth.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A jet from the fountain of truth /</subfield>
+      <subfield code="c">by a sincere lover of the truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">York :</subfield>
+      <subfield code="b">E.H. Pickering ;</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Simpkin, Marshall, &amp; Co.,</subfield>
+      <subfield code="c">[1871?]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">12 pages ;</subfield>
+      <subfield code="c">19 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">19275319</controlfield>
+    <controlfield tag="008">890227s1916    nyuc          000 0 eng d</controlfield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="a">American Truth Society.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A statement issued by the American Truth Society in defense of its president against an unjust attack made upon him by the president of the United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York City :</subfield>
+      <subfield code="b">American Truth Society,</subfield>
+      <subfield code="c">[1916?]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">22 unnumbered pages :</subfield>
+      <subfield code="b">portrait ;</subfield>
+      <subfield code="c">23 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">World War, 1914-1918</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="x">Propaganda.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="0" tag="610">
+      <subfield code="a">American Truth Society.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">O'Leary, Jeremiah A.,</subfield>
+      <subfield code="d">1881-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Wilson, Woodrow,</subfield>
+      <subfield code="d">1856-1924.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">O'Leary, Jeremiah A.,</subfield>
+      <subfield code="d">1881-</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01839235</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Wilson, Woodrow,</subfield>
+      <subfield code="d">1856-1924</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00034612</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="7" tag="610">
+      <subfield code="a">American Truth Society.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00752034</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Propaganda.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01078957</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">833324548</controlfield>
+    <controlfield tag="008">970506s1918    onc     b     000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0665867905</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780665867903</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Endorsement of confederation of Catholic Truth Societies in Canada</subfield>
+      <subfield code="h">[microforme] /</subfield>
+      <subfield code="c">Catholic Truth Society of Canada.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Toronto :</subfield>
+      <subfield code="b">Catholic Truth Society of Canada,</subfield>
+      <subfield code="c">[1918?]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 microfiche (14 images).</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">CIHM-ICMH Microfiche series = CIHM-ICMH collection de microfiches ;</subfield>
+      <subfield code="v">no. 86790</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Date from text.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Letters of endorsement from various bishops across Canada.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Titre de la couverture.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">[9] leaves ; 21 cm.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="6" tag="610">
+      <subfield code="a">Catholic Truth Society of Canada.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Littérature catholique</subfield>
+      <subfield code="x">Publication et diffusion</subfield>
+      <subfield code="z">Canada</subfield>
+      <subfield code="x">Associations.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Catholic Truth Society of Canada.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ka 4500</leader>
+    <controlfield tag="001">681429584</controlfield>
+    <controlfield tag="008">101115s1855    nyu     o     000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0524050937</subfield>
+      <subfield code="q">(microfiche)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780524050934</subfield>
+      <subfield code="q">(microfiche)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Thornwell, James Henley,</subfield>
+      <subfield code="d">1812-1862.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Discourses on truth /</subfield>
+      <subfield code="c">delivered in the Chapel of the South Carolina College by James H. Thornwell.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">R. Carter,</subfield>
+      <subfield code="c">1855.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (328 pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">EBSCOhost</subfield>
+      <subfield code="u">http://search.ebscohost.com/login.aspx?direct=true&amp;db=h7h&amp;bquery=(HJ+5QDE)&amp;type=1&amp;site=ehost-live</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000I  4500</leader>
+    <controlfield tag="001">32932793</controlfield>
+    <controlfield tag="008">950807s1859    pau           000 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   01019585 </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Graham, Mary Jane,</subfield>
+      <subfield code="d">1803-1830.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The test of truth.</subfield>
+      <subfield code="c">With an introduction by G.W. Sampson.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Philadelphia,</subfield>
+      <subfield code="b">American Baptist Publication Society</subfield>
+      <subfield code="c">[1859]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">134 pages</subfield>
+      <subfield code="c">16mo</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ka 4500</leader>
+    <controlfield tag="001">688531072</controlfield>
+    <controlfield tag="008">101201s1906    ilu     ob    001 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0837042860</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780837042862</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Marshall, Newton H.</subfield>
+      <subfield code="q">(Newton Herbert)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Theology and truth /</subfield>
+      <subfield code="c">by Newton H. Marshall.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">James Clarke,</subfield>
+      <subfield code="c">1906.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (304 pages)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.</subfield>
+      <subfield code="u">http://purl.oclc.org/DLF/benchrepro0212</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theology, Doctrinal.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Religion</subfield>
+      <subfield code="x">Philosophy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Religion</subfield>
+      <subfield code="x">Philosophy.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01093794</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theology, Doctrinal.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149617</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">EBSCOhost</subfield>
+      <subfield code="u">http://search.ebscohost.com/login.aspx?direct=true&amp;db=h8h&amp;bquery=(HJ+5JFV)&amp;type=1&amp;site=ehost-live</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/3044488.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Internet Archive</subfield>
+      <subfield code="u">https://archive.org/details/cu31924028967953</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ii 4500</leader>
+    <controlfield tag="001">6747143</controlfield>
+    <controlfield tag="008">800924s1877    enk           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Shute, Richard,</subfield>
+      <subfield code="d">1849-1888.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="245">
+      <subfield code="a">A discourse on truth /</subfield>
+      <subfield code="c">by Richard Shute.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">H.S. King,</subfield>
+      <subfield code="c">1877.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">iv, 299 pages ;</subfield>
+      <subfield code="c">21 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cmm a2200000Ma 4500</leader>
+    <controlfield tag="001">217195121</controlfield>
+    <controlfield tag="008">070910s1669    xx      o  u        eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Smith, William.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The everlasting truth exalted</subfield>
+      <subfield code="h">[Elektronische Ressource] /</subfield>
+      <subfield code="c">William Smith.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">S.L. :</subfield>
+      <subfield code="b">[s.n.],</subfield>
+      <subfield code="c">1669.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">24 p.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Early English books online,</subfield>
+      <subfield code="x">2072-3581</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Reproduction of original in Duke University Library. - Wing, S4299.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Society of Friends</subfield>
+      <subfield code="z">Great Britain</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Volltext</subfield>
+      <subfield code="u">http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;res_id=xri:eebo&amp;rft_val_fmt=&amp;rft_id=xri:eebo:image:52588</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ka 4500</leader>
+    <controlfield tag="001">24336222</controlfield>
+    <controlfield tag="008">910905s1914    ncu           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Riddle, C. B.</subfield>
+      <subfield code="q">(Carl B.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Trailing the truth /</subfield>
+      <subfield code="c">by C.B. Riddle.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Elon College, N.C. :</subfield>
+      <subfield code="b">Southern Christian Pub. Co.,</subfield>
+      <subfield code="c">1914.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">88 pages ;</subfield>
+      <subfield code="c">19 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">53676925</controlfield>
+    <controlfield tag="008">970317s1913    oncc    b     000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0665807813</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780665807817</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Eddy, Wilber.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The resurrection of truth /</subfield>
+      <subfield code="c">by Wilbur [i.e. Wilbert] Eddy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Toronto :</subfield>
+      <subfield code="b">Hambly Bros.,</subfield>
+      <subfield code="c">1913.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 microfiches (98 fr.) :</subfield>
+      <subfield code="b">portrait.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">CIHM/ICMH Microfiche series = CIHM/ICMH collection de microfiches ;</subfield>
+      <subfield code="v">no. 80781</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">181 p., [1] leaf of plates : port. ; 20 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theology, Doctrinal</subfield>
+      <subfield code="v">Popular works.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theology, Doctrinal.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149617</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Théologie dogmatique</subfield>
+      <subfield code="x">Ouvrages de vulgarisation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Vérité.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Popular works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423846</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">11729416</controlfield>
+    <controlfield tag="008">850225s1903    ohu           000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Scott, Milton R.</subfield>
+      <subfield code="q">(Milton Robinson),</subfield>
+      <subfield code="d">1841-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Essay on truth /</subfield>
+      <subfield code="c">by Milton R. Scott.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Newark, Ohio :</subfield>
+      <subfield code="b">The Author,</subfield>
+      <subfield code="c">1903.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">120 pages ;</subfield>
+      <subfield code="c">18 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Religion.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Religion.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01093763</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">999699935</controlfield>
+    <controlfield tag="008">810707s1866    enkc          000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hare, Julius Charles,</subfield>
+      <subfield code="d">1795-1855.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Guesses at truth /</subfield>
+      <subfield code="c">by two brothers.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">[3rd ed.].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Macmillan,</subfield>
+      <subfield code="c">1866.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">liv, 576 pages :</subfield>
+      <subfield code="b">(portrait) ;</subfield>
+      <subfield code="c">20 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Dedication signed : Julius Charles Hare.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes first and second series.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">English literature</subfield>
+      <subfield code="y">19th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">English literature.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00911989</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">English prose literature</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Hare, Augustus William,</subfield>
+      <subfield code="d">1792-1834.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a22000003a 4500</leader>
+    <controlfield tag="001">800530325</controlfield>
+    <controlfield tag="008">880106s1911    xx            000 0 eng d</controlfield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Bosanquet, Bernard,</subfield>
+      <subfield code="d">1848-1923.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Truth and Coherence.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Pp. 32.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">32 pages</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158235</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">124086087</controlfield>
+    <controlfield tag="008">070430s1871    enk           000 0 eng d</controlfield>
+    <datafield ind1="0" ind2=" " tag="100">
+      <subfield code="a">Layman.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">What is truth? /</subfield>
+      <subfield code="c">by a layman.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Thame :</subfield>
+      <subfield code="b">E.B. Flint,</subfield>
+      <subfield code="c">[1871?]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 unnumbered pages ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Caption title.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Truth</subfield>
+      <subfield code="x">Religious aspects</subfield>
+      <subfield code="x">Christianity.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01158248</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>151</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.su = "truth" and srw.yr &amp;lt; "1923" and srw.la = "eng"</query>
+<maximumRecords>50</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>101</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>{built-in-api-key}</wskey>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
