@@ -1,5 +1,5 @@
 http://www.worldcat.org/webservices/catalog/search/worldcat/sru?query=srw.kw+all+"APIs"&wskey={built-in-api-key}
 
-http://www.worldcat.org/webservices/catalog/search/sru?query=srw.su+%3D+%22truth%22+and+srw.yr+<+%221923%22+and+srw.la+=+%22eng%22&startRecord=151&maximumRecords=50&wskey={built-in-api-key}
+http://www.worldcat.org/webservices/catalog/search/sru?query=srw.su+%3D+%22aesthetics%22+and+srw.yr+<+%221923%22+and+srw.la+=+%22eng%22&startRecord=201&maximumRecords=50&wskey={built-in-api-key}
 
 http://www.worldcat.org/webservices/catalog/search/sru?wskey={built-in-api-key}
