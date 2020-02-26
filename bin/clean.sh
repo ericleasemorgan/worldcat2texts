@@ -14,6 +14,8 @@ fi
 COLLECTION=$1
 
 # do the work and done
+rm -rf $LIBRARY/$COLLECTION/batches/*
+rm -rf $LIBRARY/$COLLECTION/json/*
 rm -rf $LIBRARY/$COLLECTION/texts/*
 rm -rf $LIBRARY/$COLLECTION/tmp/*
 exit
