@@ -68,6 +68,22 @@ while( $done eq 'false' ) {
 	# system overloaded; rest
 	elsif ( $response->code == '503' ) { $done = 'false'; sleep 2 }
 
+	# system overloaded; rest
+	elsif ( $response->code == '400' ) {
+	
+		$done = 'false';
+		print $response->content, "\n";
+		
+	}
+
+	# system overloaded; rest
+	elsif ( $response->code == '403' ) {
+	
+		$done = 'false';
+		print $response->content, "\n";
+		
+	}
+
 	# error
 	else { exit( 0 ) }
 

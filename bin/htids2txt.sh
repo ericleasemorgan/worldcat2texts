@@ -23,8 +23,13 @@ cat $LIBRARY/$COLLECTION/$DB | while read HTID; do
 	# debug and do the work
 	echo $HTID >&2
 		
-	# do the work
-	$HTID2TXT "$HTID" "$COLLECTION"
+	if [[ -f $LIBRARY/$COLLECTION/$TEXTS/$( echo $HTID | sed "s/\//-/g" ).txt ]]; then 
+		echo "exists" >&2
+	else
+	
+		# do the work
+		$HTID2TXT "$HTID" "$COLLECTION"
+	fi
 	
 done
 exit
