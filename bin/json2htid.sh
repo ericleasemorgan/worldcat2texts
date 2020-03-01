@@ -5,7 +5,7 @@
 
 # configure
 JSON='json'
-DB='haithtrust-numbers.txt'
+DB='metadata.tsv'
 LIBRARY='./library'
 
 # sanity check
@@ -24,20 +24,29 @@ touch $LIBRARY/$COLLECTION/$DB
 # process each json file
 find $LIBRARY/$COLLECTION/$JSON -name *.json | while read FILE; do
 
-	# process each HathiTrust identifier
-	cat $FILE | jq .items[].htid | sort | while read HTID; do
+	IFS=$'\t'
 	
-		# normalize
-		HTID=$( echo $HTID | sed 's/"//g' )
+	# process each HathiTrust identifier and its metadata; jq++
+	cat $FILE | jq --raw-output "{title:.records[].titles[0], date:.records[].publishDates[0], htid:.items[].htid} | [.title, .date, .htid] | @tsv" | while read TITLE DATE HTID; do
+	
+		# normalize title, a bit
+		TITLE=$( echo $TITLE | sed 's/ \/$//' )
 		
 		# filter identifiers containing $; dollar signs hurt
 		if [[ $HTID == *'$'* ]]; then continue; fi
 		
+		# create identifier
+		TXT=$( echo $HTID | sed "s/\//-/g" ).txt
+
 		# debug
-		echo $HTID >&2
-				
+		echo "  title: $TITLE" >&2
+		echo "   date: $DATE"  >&2
+		echo "   htid: $HTID"  >&2
+		echo "   file: $TXT"   >&2
+		echo                   >&2
+
 		# save for future reference
-		echo $HTID >> $LIBRARY/$COLLECTION/$DB
+		printf "$TITLE\t$DATE\t$HTID\t$TXT\n" >> $LIBRARY/$COLLECTION/$DB
 
 		# we only want/need one identifier
 		break

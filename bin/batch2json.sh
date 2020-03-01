@@ -34,13 +34,19 @@ find $LIBRARY/$COLLECTION/$BATCHES -name *.xml | parallel xsltproc $BATCH2OCLC {
 	echo $OCLC    >&2
 	echo $URL     >&2
 	echo $OUTPUT  >&2
-	echo
 
 	# save for future reference
 	echo $OCLC >> $LIBRARY/$COLLECTION/$DB
 	
 	# do the work
-	wget -O $OUTPUT $URL
+	if [[ -f $OUTPUT ]]; then
+		echo "exists" >&2
+	else
+		wget -O $OUTPUT $URL
+	fi
+
+	# delimit
+	echo >&2
 	
 done
 exit

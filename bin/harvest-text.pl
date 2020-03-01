@@ -66,7 +66,7 @@ while( $done eq 'false' ) {
 	}
 
 	# system overloaded; rest
-	elsif ( $response->code == '503' ) { $done = 'false'; sleep 2 }
+	elsif ( $response->code == '503' ) { $done = 'false'; sleep 4 }
 
 	# system overloaded; rest
 	elsif ( $response->code == '400' ) {

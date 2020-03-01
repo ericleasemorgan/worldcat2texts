@@ -5,7 +5,7 @@
 
 # configure
 HTID2TXT='./bin/htid2txt.sh'
-DB='haithtrust-numbers.txt'
+DB='metadata.tsv'
 LIBRARY='./library'
 TEXTS='texts'
 
@@ -18,12 +18,14 @@ fi
 COLLECTION=$1
 
 # process each HathiTrust identifier
-cat $LIBRARY/$COLLECTION/$DB | while read HTID; do
+IFS=$'\t'
+cat $LIBRARY/$COLLECTION/$DB | while read TITLE DATE HTID FILE; do
 	
 	# debug and do the work
+	echo $FILE >&2
 	echo $HTID >&2
 		
-	if [[ -f $LIBRARY/$COLLECTION/$TEXTS/$( echo $HTID | sed "s/\//-/g" ).txt ]]; then 
+	if [[ -f $LIBRARY/$COLLECTION/$TEXTS/$FILE ]]; then 
 		echo "exists" >&2
 	else
 	
@@ -31,5 +33,6 @@ cat $LIBRARY/$COLLECTION/$DB | while read HTID; do
 		$HTID2TXT "$HTID" "$COLLECTION"
 	fi
 	
+	echo       >&2
 done
 exit
