@@ -79,8 +79,8 @@ while( $done eq 'false' ) {
 	# system overloaded; rest
 	elsif ( $response->code == '403' ) {
 	
-		$done = 'false';
-		print $response->content, "\n";
+		$done = 'true';
+		exit ( 2 )
 		
 	}
 
