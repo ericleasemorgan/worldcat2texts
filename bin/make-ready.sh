@@ -5,6 +5,7 @@ TSV2CSV='./bin/tsv2csv.sh'
 LIBRARY='./library'
 TEXT='texts'
 CSV='metadata.csv'
+TEMPLATE='./etc/template.slurm'
 
 # sanity check
 if [[ -z $1 ]]; then
@@ -15,11 +16,16 @@ fi
 # get input
 COLLECTION=$1
 
+# create slurm script
+cat $TEMPLATE | sed s"/##COLLECTION##/$COLLECTION/g" > $LIBRARY/$COLLECTION/$COLLECTION.slurm
+
 # create CSV file
 $TSV2CSV $COLLECTION
 
-# copy it, zip the texts, and done
+# copy it and create a zip file
 cp $LIBRARY/$COLLECTION/$CSV $LIBRARY/$COLLECTION/$TEXT
 cd $LIBRARY/$COLLECTION
 zip $COLLECTION.zip $TEXT/*
+
+# done
 exit
