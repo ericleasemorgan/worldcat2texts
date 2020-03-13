@@ -10,6 +10,9 @@
 
 # configure
 LIBRARY='./library'
+TSV='metadata.tsv'
+CSV='metadata.csv'
+OCLC='oclc-numbers.txt'
 
 if [[ -z $1 ]]; then
 	echo "Usage: $0 <collection>" >&2
@@ -19,10 +22,15 @@ fi
 # get input
 COLLECTION=$1
 
-# do the work and done
-rm -rf $LIBRARY/$COLLECTION/batches/*
-rm -rf $LIBRARY/$COLLECTION/json/*
-rm -rf $LIBRARY/$COLLECTION/texts/*
-rm -rf $LIBRARY/$COLLECTION/tmp/*
+# do the work
+rm -rf $LIBRARY/$COLLECTION/batches
+rm -rf $LIBRARY/$COLLECTION/json
+rm -rf $LIBRARY/$COLLECTION/texts
+rm -rf $LIBRARY/$COLLECTION/tmp
+rm -rf $LIBRARY/$COLLECTION/$TSV
+rm -rf $LIBRARY/$COLLECTION/$CSV
+rm -rf $LIBRARY/$COLLECTION/$OCLC
+
+# done
 exit
 

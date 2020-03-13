@@ -30,12 +30,13 @@ Use the following sequence to make this system work for you:
    4. `./bin/make-metadata.sh` - loop through search results, join them with HathiTrust, and output rudimentary metadata
    6. `./bin/make-cache.sh` - loop through the metadata and cache OCR; very not fast
    7. `./bin/make-ready.sh` - create a metadata file apropos to the Reader, zip the cache, and get ready processing
-   8. `./bin/read.sh` - submit the result of all the above to the Distant Reader; "Cook until done."
+   8. `./bin/clean.sh` - optionally remove the temporary and staging files from the collection
+   9. `./bin/read.sh` - submit the result of all the above to the Distant Reader; "Cook until done."
 
 If you want to do everything at one go, then:
 
-   9. `./bin/make-all.sh` - one script to rule them all
+  10. `./bin/make-all.sh` - one script to rule them all
 
 ---
 Eric Lease Morgan &lt;emorgan@nd.edu&gt;   
-March 12, 2020 -- "While coronavirus is happening"
+March 13, 2020 -- "While coronavirus is still happening"

@@ -10,10 +10,12 @@
 
 # configure 
 TSV2CSV='./bin/tsv2csv.sh'
+CLEAN='./bin/clean.sh'
 LIBRARY='./library'
 TEXT='texts'
 CSV='metadata.csv'
 TEMPLATE='./etc/template.slurm'
+HOME=$( pwd )
 
 # sanity check
 if [[ -z $1 ]]; then

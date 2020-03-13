@@ -23,6 +23,7 @@ COLLECTION=$1
 ./bin/make-metadata.sh $COLLECTION
 ./bin/make-cache.sh $COLLECTION
 ./bin/make-ready.sh $COLLECTION
+./bin/clean.sh $COLLECTION
 ./bin/read.sh $COLLECTION
 
 # done
