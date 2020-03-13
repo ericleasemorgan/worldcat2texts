@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# htid2txt.pl - given some secrets and a HathiTrust identifier, output a plain (OCRed) text
+# harvest-text.pl - given a HathiTrust identifier and a page number, output a page of OCR
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
@@ -8,6 +8,8 @@
 # February 10, 2019 - first cut
 # February 16, 2019 - gonna call it done, but software is never finished
 # July     14, 2019 - trapped for HTTP errors 401, 404, and 503
+# March    12, 2020 - migrated/tweaked for the Distant Reader
+
 
 # configure
 use constant REQUEST => 'https://babel.hathitrust.org/cgi/htd/volume/pageocr/';
@@ -19,6 +21,7 @@ use strict;
 use OAuth::Lite::Consumer;
 use OAuth::Lite::AuthMethod;
 
+# get input
 my $htid   = $ARGV[ 0 ];
 my $page   = $ARGV[ 1 ];
 if ( ! $htid | ! $page ) { die "Usage: $0 <htid> <page>\n" }

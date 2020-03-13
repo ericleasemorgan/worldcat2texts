@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
-# configure scripts
+# read.sh - submit a previously created collection to the Reader
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
+
+# configure
 LIBRARY='./library'
 
 # sanity check

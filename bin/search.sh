@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# search.sh - given a few pre-configurations, query Lexis/Nexis and output results as a set of files
+# search.sh - query WorldCat and cache search results
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
 
-# November 7, 2019 - first documentation, but based on previous work; need to remove pre-configurations
+# March 12, 2020 - first documentation; while coronavirus is happening
 
 
 # configure
@@ -41,7 +41,7 @@ echo "$URL" >&2
 echo >&2
 
 # get the number of found records
-RESPONSE=$(wget -O - "$URL" )
+RESPONSE=$( wget -O - "$URL" )
 TOTAL=$( echo $RESPONSE | xsltproc $GETCOUNT - )
 echo "Number of records: $COUNT" >&2
 

@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
-# configure scripts
+# make-metadata.sh - process cached MARCXML, process resulting JSON files, and output metadata file
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
+
+# configure
 BATCHES2JSON='./bin/batch2json.sh'
 JSON2HTID='./bin/json2htid.sh'
 

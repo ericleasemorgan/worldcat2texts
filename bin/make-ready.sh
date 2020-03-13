@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
-# configure scripts
+# make-ready.sh - get collection ready for processing by the Distant Reader
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
+
+# configure 
 TSV2CSV='./bin/tsv2csv.sh'
 LIBRARY='./library'
 TEXT='texts'

@@ -1,19 +1,19 @@
 #!/usr/bin/env bash
 
-# build.sh
+# build.sh - given a name, initialize the file system for a collection; think "database"
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
 
 
-# configure file system
+# configure
 LIBRARY='./library'
 BATCHES='batches'
 JSON='json'
 TEXTS='texts'
 TMP='tmp'
-
-# configure scripts
-BATCHES2JSON='./bin/batch2json.sh'
-JSON2HTID='./bin/json2htid.sh'
-HTIDS2TEXT='./bin/htids2txt.sh'
 
 # sanity check
 if [[ -z $1 ]]; then

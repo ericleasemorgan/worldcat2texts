@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 
-# htids2txt.sh - given a set of HathiTrust identifiers, save a set of plain text files 
+# make-cache.sh - loop through a metadata file, and create a cache of OCR
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
 
 
 # configure
@@ -9,6 +14,7 @@ DB='metadata.tsv'
 LIBRARY='./library'
 TEXTS='texts'
 
+# sanity check
 if [[ -z $1 ]]; then
 	echo "Usage: $0 <collection>" >&2
 	exit
@@ -33,6 +39,8 @@ cat $LIBRARY/$COLLECTION/$DB | while read TITLE DATE HTID FILE; do
 		$HTID2TXT "$HTID" "$COLLECTION"
 	fi
 	
-	echo       >&2
+	# delimit
+	echo  >&2
+	
 done
 exit

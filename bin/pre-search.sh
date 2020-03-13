@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# search.sh - given a few pre-configurations, query Lexis/Nexis and output results as a set of files
+# pre-search.sh - do a simple search against OCLC to see how the results appear
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
 
-# November 7, 2019 - first documentation, but based on previous work; need to remove pre-configurations
+# March 12, 2020 - first documentation; while coronavirus is happening
 
 
 # configure
@@ -32,6 +32,6 @@ URL=$( echo $URL | sed "s/##WSKEY##/$WSKEY/" )
 echo "$URL" >&2
 echo >&2
 
-# do the work
+# do the work and done
 wget -O - "$URL"
-
+exit

@@ -2,6 +2,11 @@
 
 # json2htid.sh - given a JSON of a particular design, output a HathiTrust identifier
 
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening; jq++
+
 
 # configure
 JSON='json'
@@ -24,6 +29,7 @@ touch $LIBRARY/$COLLECTION/$DB
 # process each json file
 find $LIBRARY/$COLLECTION/$JSON -name *.json | while read FILE; do
 
+	# re-configure
 	IFS=$'\t'
 	
 	# process each HathiTrust identifier and its metadata; jq++
@@ -32,7 +38,7 @@ find $LIBRARY/$COLLECTION/$JSON -name *.json | while read FILE; do
 		# normalize title, a bit
 		TITLE=$( echo $TITLE | sed 's/ \/$//' )
 		
-		# filter identifiers containing $; dollar signs hurt
+		# filter out identifiers containing $; dollar signs hurt
 		if [[ $HTID == *'$'* ]]; then continue; fi
 		
 		# create identifier

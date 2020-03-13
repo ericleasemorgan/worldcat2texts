@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# htid2txt.sh - given a key, secret, HathiTrust identifier, and size, build a plain text file
+# htid2txt.sh - a front-end to harvest-text.sh; parallelize the process of building OCR version of book
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
@@ -8,6 +8,7 @@
 # February 16, 2019 - first documentation
 # July     11, 2019 - figured out how to parallelize the process; substantial speed increase
 # July     14, 2019 - removed need for size parameter; exported size for htid2pdf.sh
+# March    12, 2020 - enhanced for the Distant Reader
 
 
 # configure

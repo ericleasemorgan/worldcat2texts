@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# tsv2csv.sh - convert the original metadata (TSV) file to a CSV file, because the Reader wants CSV
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
+
+# configure
 LIBRARY='./library'
 TSV='metadata.tsv'
 CSV='metadata.csv'

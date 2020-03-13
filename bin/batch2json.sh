@@ -2,6 +2,13 @@
 
 # batch2json.sh - given a batch of MARC XML files, output JSON files from HathiTrust
 
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
+
+# configure
 BATCH2OCLC='./etc/batch2oclc.xsl'
 BATCHES='batches'
 DB='oclc-numbers.txt'

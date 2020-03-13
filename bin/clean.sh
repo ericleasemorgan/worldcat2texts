@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
-# clean.sh - scary
+# clean.sh - given a collection, undo initialization
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# (c) University of Notre Dame; distributed under a GNU Public License
+
+# March 12, 2020 - first documentation; while coronavirus is happening
+
 
 # configure
 LIBRARY='./library'

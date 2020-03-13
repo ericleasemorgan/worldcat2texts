@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# harvest-text.sh - given a key, secret, and HathiTrust identifier, build a plain text file; a front-end to harvest-text.pl
+# harvest-text.sh - a front-end to harvest-text.pl; output the OCR of an item from the HathiTrust
 
 # Eric Lease Morgan <emorgan@nd.edu>
 # (c) University of Notre Dame; distributed under a GNU Public License
